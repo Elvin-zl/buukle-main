@@ -37,7 +37,7 @@
         <commons.configuration>1.10</commons.configuration>
         <com.google.guava>23.2-jre</com.google.guava>
         <org.apache.curator>2.12.0</org.apache.curator>
-        <org.activiti>6.0.0</org.activiti>
+        <org.activiti>5.22.0</org.activiti>
     </properties>
 
     <dependencyManagement>
