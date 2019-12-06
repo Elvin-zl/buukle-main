@@ -144,6 +144,16 @@
                 <artifactId>activiti-spring-boot-starter-basic</artifactId>
                 <version>${org.activiti}</version>
             </dependency>
+            <dependency>
+                <groupId>org.activiti</groupId>
+                <artifactId>activiti-diagram-rest</artifactId>
+                <version>${org.activiti}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.activiti</groupId>
+                <artifactId>activiti-modeler</artifactId>
+                <version>${org.activiti}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
